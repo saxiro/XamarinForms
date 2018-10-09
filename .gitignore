@@ -1,0 +1,5 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Secao05/App01_ConsultarCEP/.vs/App01_ConsultarCEP/v15/Server/sqlite3
